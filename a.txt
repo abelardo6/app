@@ -1,7 +1,12 @@
 aaaa
 b
 <<<<<<< HEAD
+<<<<<<< HEAD
 cambioos en rama1
 =======
 pruebas en github en la rama 2  
 >>>>>>> rama2
+=======
+ pruebas en github en la rama 2  
+>>>>>>> rama2
+a
