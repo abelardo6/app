@@ -10,4 +10,4 @@ pruebas en github en la rama 2
  pruebas en github en la rama 2  
 >>>>>>> rama2
 a
-cambios por abelardoperez
+cambios por abelardoperez 
